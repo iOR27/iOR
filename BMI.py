@@ -1,3 +1,4 @@
+#работает не корректно
 def calculateBMI():
     height = float(input("Введите свой рост: "))
     weight = float(input("Введите свой вес: "))
