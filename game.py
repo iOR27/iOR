@@ -1,3 +1,4 @@
+#не работает, надо сиправлять
 import random
 def start():
 	camp = [(g,c) for g in 'kbn' for c in 'kbn']
